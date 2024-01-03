@@ -50,4 +50,4 @@ jobs:
           app-name: 'AlmacenClase'
           slot-name: 'Production'
           package: '*.jar'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EC0F9F1BAB794CC980512983120212B0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_71DE36F66A264FDAA3F557EBF48D06E5 }}
